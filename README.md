@@ -15,3 +15,8 @@ uv pip install torch torchvision --index-url https://download.pytorch.org/whl/ro
 
 
 ```
+
+
+## Module 2 data
+
+[emnist dataset](https://www.nist.gov/itl/products-and-services/emnist-dataset)
