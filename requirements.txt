@@ -1,4 +1,4 @@
 jupyterlab==4.5.0
 matplotlib==3.10.7
 pandas==2.3.3
-dlai-grader==2.1.0
+dlai-grader==2.2.0
