@@ -8,7 +8,20 @@
 				"ms-python.python",
 				"github.copilot-chat",
 				"ms-toolsai.jupyter"
-			]
+			],
+			"settings": {
+				"chat.fontSize": 12,
+				"editor.fontSize": 12,
+				"chat.editor.fontSize": 12,
+				"debug.console.fontSize": 12,
+				"editor.codeLensFontSize": 11,
+				"scm.inputFontSize": 11,
+				"notebook.markup.fontSize": 12,
+				"editor.suggestFontSize": 11,
+				"notebook.output.fontSize": 12,
+				"markdown.preview.fontSize": 12,
+				"terminal.integrated.fontSize": 12
+			}
 		}
 	},
 
